@@ -1,0 +1,224 @@
+.ppseries-textarea {
+    resize: none;
+    height: 70px;
+}
+.pp-widget-series {
+    border-bottom: solid 1px #dcdcde;
+    list-style: none;
+    margin: 0 !important;
+    overflow: auto;
+    padding: 10px !important;
+    border: solid 1px #dcdcde;
+    background-color: #fff;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    max-height: 12em;
+}
+.pp-widget-series-li {
+    margin: 0;
+    padding: 0;
+    line-height: 1.69230769;
+    word-wrap: break-word;
+}
+.ppseries-settings-table input[type=text], 
+.ppseries-settings-table input[type=number], 
+.ppseries-settings-table select {
+    width: 300px;
+}
+.ppseries-full-width {
+    width: -webkit-fill-available !important;
+    width: -moz-available !important;
+}
+.post-series {
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+
+.post-series li {
+    display: inline;
+}
+ul#serieschecklist {
+    max-height: 12em;
+    overflow: auto;
+    border-bottom: solid 1px #dcdcde;
+    padding-bottom: 10px;
+}
+.series-part-wrap {
+    border-bottom: solid 1px #dcdcde;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+ul#serieschecklist li span.li-series-name {
+    padding-left: 0;
+}
+ul#serieschecklist li label {
+    clear: both;
+    font-size: 13px;
+}
+ul#serieschecklist li {
+    margin-bottom: 6px !important;
+}
+
+.series-metadiv div.tabs-panel {
+    overflow: auto;
+    padding: 0 .9em;
+    border: solid 1px #dcdcde;
+    background-color: #fff;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+#ajaxseries input[type="text"] {
+    width: 62%;
+    box-shadow: 0 0 0 transparent;
+    border-radius: 4px;
+    border: 1px solid #8c8f94;
+    background-color: #fff;
+    color: #2c3338;
+    padding: 0 8px;
+    line-height: 2;
+    min-height: 30px;
+    margin: 0 4px 0 0;
+    line-height: 2.15384615;
+    min-height: 30px;
+    margin-bottom: 1px;
+}
+#serie_post_shorttitle {
+  width: 100%;
+}
+
+#serieshowto {
+    font-size: 11px;
+    margin: 0 5px;
+    display: block;
+}
+
+#part-description {
+    font-size: 11px;
+    margin: 0 5px;
+    display: block;
+    margin-left: 0;
+}
+
+#seriespart input, #seriespart input:focus {
+    border: 1px solid #ccc;
+}
+
+#newseries {
+    width: 120px;
+    margin-right: 5px;
+}
+
+.series-added-indicator {
+    background-color: yellow;
+}
+
+input #seriesadd {
+    background: #a4a4a4;
+    border-bottom: 1px solid #898989;
+    border-left: 1px solid #bcbcbc;
+    border-right: 1px solid #898989;
+    border-top: 1px solid #bcbcbc;
+    color: #fff;
+    font-size: 10px;
+    padding: 0;
+    margin: 0;
+    font-weight: bold;
+    height: 20px;
+    margin-bottom: 2px;
+    text-align: center;
+    width: 37px;
+}
+
+#seriessearchform, #post-query-submit2 {
+    float: left;
+    margin: 0 0 0 15px;
+    position: relative;
+    top: 0;
+}
+
+#post-query-submit2 {
+    margin: 18px 0 0;
+}
+
+#seriessearchform fieldset {
+    float: left;
+    margin: 0 1.5ex 1em 0;
+    padding: 0;
+}
+
+#seriessearchform fieldset legend {
+    padding: 0 0 .2em 1px;
+}
+
+.org-series-side-info {
+    float: left;
+    margin-left: 10px;
+    margin-right: 15px;
+    width: 20%;
+    background: #E4E4E4;
+    padding: 5px;
+}
+
+.orgseriesleft {
+    float: left;
+    width: 60%;
+}
+
+#topic-toc-settings-series-template-core .template {
+    width: 100%;
+}
+
+.seriesdescr {
+    width: 20%;
+}
+
+/** License Key Containers **/
+.os-license-key-container {
+    background-color: #ebebeb;
+    margin: 0;
+    padding:1px 10px 10px;
+    margin-bottom: 10px;
+}
+
+.os-license-key-container input[type="text"] {
+    width: 100%;
+}
+
+.license-key-submit-button {
+    margin-top: 10px;
+}
+
+.ppseries-warning {
+    border: 1px solid rgb(230, 219, 84);
+    color: #8a8a8a;
+    font-size: 13px;
+    padding: 12px 25px;
+    background-color: rgb(254, 255, 224);
+}
+
+.ppseries-hide-content {
+  display: none !important;
+}
+
+.ppseries-settings-header {
+  padding-left: 0 !important;
+}
+
+.ppseries-spinner {
+    float: none !important;
+}
+.ppseries-settings-tab-content .form-table th {
+    width: 300px !important;
+}
+.ppseries-widget-paragraph {
+    font-size: 13px !important;
+}
+
+/* Mobile styles */
+@media only screen and (max-width: 782px) {
+    .ppseries-settings-tab-content .form-table th {
+        width: auto !important;
+    }
+}
