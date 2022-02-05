@@ -3,8 +3,8 @@ Contributors: wpkoithemes
 Tags: two-columns, three-columns, one-column, right-sidebar, left-sidebar, footer-widgets, blog, e-commerce, flexible-header, full-width-template, custom-header, custom-background, custom-menu, custom-colors, sticky-post, threaded-comments, translation-ready, featured-images
 Requires at least: WordPress 4.9
 Requires PHP: 7.0
-Tested up to: WordPress 5.8
-Stable tag: 1.3.0
+Tested up to: WordPress 5.9
+Stable tag: 1.4.0
 License: GNU General Public License v3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -85,6 +85,9 @@ License: https://creativecommons.org/publicdomain/zero/1.0/
 
 
 == Change Log ==
+
+= 1.4.0 =
+Added: theme support for some new block feature
 
 = 1.3.0 =
 Added: theme support for responsive-embeds

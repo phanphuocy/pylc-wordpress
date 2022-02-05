@@ -30,8 +30,24 @@ if ( ! function_exists( 'lalita_setup' ) ) {
 		add_theme_support( 'woocommerce' );
 		add_theme_support( 'title-tag' );
 		add_theme_support( 'html5', array( 'comment-form', 'comment-list', 'gallery', 'caption' ) );
+		
+		// Add theme support for selective refresh for widgets.
 		add_theme_support( 'customize-selective-refresh-widgets' );
+		
+		// Add support for Block Styles.
+		add_theme_support( 'wp-block-styles' );
+
+		// Add support for full and wide align images.
+		add_theme_support( 'align-wide' );
+		
+		// Add support for responsive embedded content.
 		add_theme_support( 'responsive-embeds' );
+
+		// Add support for custom line height controls.
+		add_theme_support( 'custom-line-height' );
+
+		// Add support for experimental cover block spacing.
+		add_theme_support( 'custom-spacing' );
 
 		add_theme_support( 'custom-logo', array(
 			'height' => 72,
