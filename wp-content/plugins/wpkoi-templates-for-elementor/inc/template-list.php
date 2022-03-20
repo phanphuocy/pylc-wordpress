@@ -659,6 +659,30 @@ if ( ! function_exists( 'wpkoi_templates_for_elementor_template_list' ) ) {
 			  'title' => 'Sundara Free',
 			  'url' => 'https://wpkoi.com/wpkoi-elementor-templates-demo/sundara-free/',
 			),
+			108 => array (
+			  'template_id' => 'manas-free',
+			  'thumbnail' => 'manas-free-thumb.jpg',
+			  'title' => 'Manas Free',
+			  'url' => 'https://wpkoi.com/wpkoi-elementor-templates-demo/manas-free/',
+			),
+			109 => array (
+			  'template_id' => 'prakasa-free',
+			  'thumbnail' => 'prakasa-free-thumb.jpg',
+			  'title' => 'Prakasa Free',
+			  'url' => 'https://wpkoi.com/wpkoi-elementor-templates-demo/prakasa-free/',
+			),
+			110 => array (
+			  'template_id' => 'gotra-free',
+			  'thumbnail' => 'gotra-free-thumb.jpg',
+			  'title' => 'Gotra Free',
+			  'url' => 'https://wpkoi.com/wpkoi-elementor-templates-demo/gotra-free/',
+			),
+			111 => array (
+			  'template_id' => 'makara-free',
+			  'thumbnail' => 'makara-free-thumb.jpg',
+			  'title' => 'Makara Free',
+			  'url' => 'https://wpkoi.com/wpkoi-elementor-templates-demo/makara-free/',
+			),
 		);
 		
 		return $templates;

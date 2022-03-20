@@ -1,0 +1,168 @@
+@font-face {
+    font-family: 'Adelle Sans EXT';
+    src: url('AdelleSansEXT-Bold.eot');
+    src: local('Adelle Sans EXT Bold'), local('AdelleSansEXT-Bold'),
+        url('AdelleSansEXT-Bold.eot?#iefix') format('embedded-opentype'),
+        url('AdelleSansEXT-Bold.woff2') format('woff2'),
+        url('AdelleSansEXT-Bold.woff') format('woff'),
+        url('AdelleSansEXT-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Adelle Sans EXT';
+    src: url('AdelleSansEXT-BoldItalic.eot');
+    src: local('Adelle Sans EXT Bold Italic'), local('AdelleSansEXT-BoldItalic'),
+        url('AdelleSansEXT-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('AdelleSansEXT-BoldItalic.woff2') format('woff2'),
+        url('AdelleSansEXT-BoldItalic.woff') format('woff'),
+        url('AdelleSansEXT-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Adelle Sans EXT';
+    src: url('AdelleSansEXT-ExtraboldItalic.eot');
+    src: local('Adelle Sans EXT Extrabold Italic'), local('AdelleSansEXT-ExtraboldItalic'),
+        url('AdelleSansEXT-ExtraboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('AdelleSansEXT-ExtraboldItalic.woff2') format('woff2'),
+        url('AdelleSansEXT-ExtraboldItalic.woff') format('woff'),
+        url('AdelleSansEXT-ExtraboldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Adelle Sans EXT';
+    src: url('AdelleSansEXT-HeavyItalic.eot');
+    src: local('Adelle Sans EXT Heavy Italic'), local('AdelleSansEXT-HeavyItalic'),
+        url('AdelleSansEXT-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+        url('AdelleSansEXT-HeavyItalic.woff2') format('woff2'),
+        url('AdelleSansEXT-HeavyItalic.woff') format('woff'),
+        url('AdelleSansEXT-HeavyItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Adelle Sans EXT';
+    src: url('AdelleSansEXT-Semibold.eot');
+    src: local('Adelle Sans EXT Semibold'), local('AdelleSansEXT-Semibold'),
+        url('AdelleSansEXT-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('AdelleSansEXT-Semibold.woff2') format('woff2'),
+        url('AdelleSansEXT-Semibold.woff') format('woff'),
+        url('AdelleSansEXT-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Adelle Sans EXT';
+    src: url('AdelleSansEXT-Thin.eot');
+    src: local('Adelle Sans EXT Thin'), local('AdelleSansEXT-Thin'),
+        url('AdelleSansEXT-Thin.eot?#iefix') format('embedded-opentype'),
+        url('AdelleSansEXT-Thin.woff2') format('woff2'),
+        url('AdelleSansEXT-Thin.woff') format('woff'),
+        url('AdelleSansEXT-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Adelle Sans EXT';
+    src: url('AdelleSansEXT-Regular.eot');
+    src: local('Adelle Sans EXT Regular'), local('AdelleSansEXT-Regular'),
+        url('AdelleSansEXT-Regular.eot?#iefix') format('embedded-opentype'),
+        url('AdelleSansEXT-Regular.woff2') format('woff2'),
+        url('AdelleSansEXT-Regular.woff') format('woff'),
+        url('AdelleSansEXT-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Adelle Sans EXT';
+    src: url('AdelleSansEXT-ThinItalic.eot');
+    src: local('Adelle Sans EXT Thin Italic'), local('AdelleSansEXT-ThinItalic'),
+        url('AdelleSansEXT-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('AdelleSansEXT-ThinItalic.woff2') format('woff2'),
+        url('AdelleSansEXT-ThinItalic.woff') format('woff'),
+        url('AdelleSansEXT-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Adelle Sans EXT';
+    src: url('AdelleSansEXT-Italic.eot');
+    src: local('Adelle Sans EXT Italic'), local('AdelleSansEXT-Italic'),
+        url('AdelleSansEXT-Italic.eot?#iefix') format('embedded-opentype'),
+        url('AdelleSansEXT-Italic.woff2') format('woff2'),
+        url('AdelleSansEXT-Italic.woff') format('woff'),
+        url('AdelleSansEXT-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Adelle Sans EXT';
+    src: url('AdelleSansEXT-SemiboldItalic.eot');
+    src: local('Adelle Sans EXT Semibold Italic'), local('AdelleSansEXT-SemiboldItalic'),
+        url('AdelleSansEXT-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('AdelleSansEXT-SemiboldItalic.woff2') format('woff2'),
+        url('AdelleSansEXT-SemiboldItalic.woff') format('woff'),
+        url('AdelleSansEXT-SemiboldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Adelle Sans EXT';
+    src: url('AdelleSansEXT-Heavy.eot');
+    src: local('Adelle Sans EXT Heavy'), local('AdelleSansEXT-Heavy'),
+        url('AdelleSansEXT-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('AdelleSansEXT-Heavy.woff2') format('woff2'),
+        url('AdelleSansEXT-Heavy.woff') format('woff'),
+        url('AdelleSansEXT-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Adelle Sans EXT';
+    src: url('AdelleSansEXT-LightItalic.eot');
+    src: local('Adelle Sans EXT Light Italic'), local('AdelleSansEXT-LightItalic'),
+        url('AdelleSansEXT-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('AdelleSansEXT-LightItalic.woff2') format('woff2'),
+        url('AdelleSansEXT-LightItalic.woff') format('woff'),
+        url('AdelleSansEXT-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Adelle Sans EXT';
+    src: url('AdelleSansEXT-Extrabold.eot');
+    src: local('Adelle Sans EXT Extrabold'), local('AdelleSansEXT-Extrabold'),
+        url('AdelleSansEXT-Extrabold.eot?#iefix') format('embedded-opentype'),
+        url('AdelleSansEXT-Extrabold.woff2') format('woff2'),
+        url('AdelleSansEXT-Extrabold.woff') format('woff'),
+        url('AdelleSansEXT-Extrabold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Adelle Sans EXT';
+    src: url('AdelleSansEXT-Light.eot');
+    src: local('Adelle Sans EXT Light'), local('AdelleSansEXT-Light'),
+        url('AdelleSansEXT-Light.eot?#iefix') format('embedded-opentype'),
+        url('AdelleSansEXT-Light.woff2') format('woff2'),
+        url('AdelleSansEXT-Light.woff') format('woff'),
+        url('AdelleSansEXT-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+

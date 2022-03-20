@@ -5,7 +5,7 @@
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '03c6be8a1ed034a472c739bfa6ad501e074dc83c',
+        'reference' => '64bf4ece5a20d21dec4de4b02bf6784e70d81cf8',
         'name' => 'roughsmoothengine/organize-series',
         'dev' => false,
     ),
@@ -79,7 +79,7 @@
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '03c6be8a1ed034a472c739bfa6ad501e074dc83c',
+            'reference' => '64bf4ece5a20d21dec4de4b02bf6784e70d81cf8',
             'dev_requirement' => false,
         ),
         'sabre/vobject' => array(

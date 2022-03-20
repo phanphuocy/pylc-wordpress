@@ -2,7 +2,7 @@
 Contributors: codeinwp,themeisle,marius2012,marius_codeinwp,hardeepasrani,rozroz,Madalin_ThemeIsle
 Tags: tables, charts, pie, visualization, graphs
 Requires at least: 3.5
-Tested up to: 5.8
+Tested up to: 5.9
 Requires PHP: 5.6
 Stable tag: trunk
 License: GPL v2.0 or later
@@ -162,6 +162,14 @@ Pay attention that to turn your shortcodes into graphs, your theme has to have `
 13. Bar chart
 
 == Changelog ==
+
+##### [Version 3.7.4](https://github.com/Codeinwp/visualizer/compare/v3.7.3...v3.7.4) (2022-02-07)
+
+- Fix multiple lazy load charts issue
+- Tested up to WordPress 5.9 version
+
+
+
 
 ##### [Version 3.7.3](https://github.com/Codeinwp/visualizer/compare/v3.7.2...v3.7.3) (2022-01-19)
 

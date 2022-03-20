@@ -14,6 +14,7 @@ Updated: 2022-02-05 08:11:38
 body {
     background-color: #fff;
     padding: 15px;
+	font-family: "Adelle Sans EXT", sans-serif;
 }
 .button, .woocommerce a.button, .woocommerce button.button {
     padding-top: 12px;

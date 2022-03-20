@@ -3,8 +3,8 @@ Contributors: wpkoithemes
 Tags: wpkoi, elementor, addons, elementor addon, template library, elementor template, wpkoithemes, demo, landing page
 Requires at least: 4.9
 Requires PHP: 7.0
-Tested up to: 5.8
-Stable tag: 2.4.0
+Tested up to: 5.9
+Stable tag: 2.4.1
 
 Amazing Elementor elements and effects with unique WPKoi page templates.
 
@@ -159,6 +159,10 @@ Released under the MIT License
 3. Add to Your page
 
 == Changelog ==
+
+= 2.4.1 =
+Release date 02.10.2021
+- Added Manas Free, Prakasa Free, Gotra Free, Makara Free
 
 = 2.4.0 =
 Release date 12.22.2021
